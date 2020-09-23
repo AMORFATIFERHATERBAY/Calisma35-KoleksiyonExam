@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calisma35-KoleksiyonExam/1.0.0": {
+        "runtime": {
+          "Calisma35-KoleksiyonExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calisma35-KoleksiyonExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

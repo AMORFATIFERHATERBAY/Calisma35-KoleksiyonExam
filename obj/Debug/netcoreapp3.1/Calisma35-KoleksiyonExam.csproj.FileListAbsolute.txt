@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/bin/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/bin/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/bin/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/bin/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/bin/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma35-KoleksiyonExam/obj/Debug/netcoreapp3.1/Calisma35-KoleksiyonExam.genruntimeconfig.cache
